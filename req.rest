@@ -1,9 +1,0 @@
-GET http://localhost:3000/home
-
-###
-POST http://localhost:3000/post_name_toped
-Content-Type: application/json
-
-{
-    "ss"
-}
